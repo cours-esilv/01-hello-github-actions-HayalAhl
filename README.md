@@ -22,7 +22,7 @@ _Create a GitHub Action and use it in a workflow._
 ## Step 5: Trigger the workflow
 
 
-_You're now able to write and run an Actions workflow! :sparkles:_ :sparkles:_
+_You're now able to write and run an Actions workflow! :sparkles:_
 
 
 
